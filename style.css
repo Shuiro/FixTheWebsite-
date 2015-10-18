@@ -11,3 +11,15 @@ img { width:80%}
 a { color: #FF9980;
 text-decoration: none;
 }
+
+
+#link{
+	color: #FF9980;
+	text-decoration: none;	
+}
+
+#link:hover{
+	text-decoration: underline;
+	color:##F9980;
+}
+
