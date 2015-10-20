@@ -8,10 +8,19 @@ margin: 0 auto;
 text-align: center;
 }
 img { width:80%}
-a { color: #FF9980;
-text-decoration: none;
+a { 
+	color: #FF9980;
+	text-decoration: none;
 }
+footer{
+	color: #FF9980;
+	font: "Fantasy";
+}
+header{
+	color: #FF9980;
+	font: "Fantasy";
 
+}
 
 #link{
 	color: #FF9980;
@@ -21,5 +30,29 @@ text-decoration: none;
 #link:hover{
 	text-decoration: underline;
 	color:##F9980;
+}
+
+#leftBar{
+	
+	height:100%;
+	width:15%;
+	background-color: #A34747;
+	float: left;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+
+
+#centerBar{
+	float: center;
+	height:100%;
+	
+	width:65%;
+	background-color: #A34747;
+	
+	margin: 0 auto;
+	text-align: center;
 }
 
