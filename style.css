@@ -1,58 +1,35 @@
 body {
     background-image: url("http://payload369.cargocollective.com/1/8/271630/9690022/redpandpa72dpi_567.jpg");
 }
-div { height:100%;
-width:30%;
-background-color: #A34747;
-margin: 0 auto;
-text-align: center;
+div {
+    background-color: #A34747;
+    margin: auto;
+    float: inherit;
+    text-align: center;
 }
-img { width:80%}
-a { 
-	color: #FF9980;
-	text-decoration: none;
+img {
+    width:80%
 }
-footer{
-	color: #FF9980;
-	font: "Fantasy";
+a {
+    color: #FF9980;
+    text-decoration: none;
 }
-header{
-	color: #FF9980;
-	font: "Fantasy";
-
+.top {
+    margin-top: -30px;
+    padding-top: 10px;
+    height: 45%;
+    width: 45%;   
+    border-radius: 10px;
+    border: solid 20px maroon;
 }
-
-#link{
-	color: #FF9980;
-	text-decoration: none;	
+.footer {
+    width: 100%;
+    margin-top: 20%;
 }
-
-#link:hover{
-	text-decoration: underline;
-	color:##F9980;
+a:hover {
+    color:gold;
+    text-decoration: underline;
 }
-
-#leftBar{
-	
-	height:100%;
-	width:15%;
-	background-color: #A34747;
-	float: left;
-	margin: 0 auto;
-	text-align: center;
-	
+p {
+    color:#FF9980;
 }
-
-
-
-#centerBar{
-	float: center;
-	height:100%;
-	
-	width:65%;
-	background-color: #A34747;
-	
-	margin: 0 auto;
-	text-align: center;
-}
-
