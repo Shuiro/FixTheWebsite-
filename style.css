@@ -53,3 +53,9 @@ h1 {
     font-family: fantasy; 
     font-size: 20px;
 }
+
+#email:hover {
+    color: #FF9980;
+    text-decoration: none;
+}
+
